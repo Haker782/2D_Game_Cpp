@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\2д игра\Source.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lenovo\source\repos\2д игра\Source.cpp(166,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lenovo\source\repos\2д игра\Source.cpp(178,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lenovo\source\repos\2д игра\Source.cpp(191,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lenovo\source\repos\2д игра\Source.cpp(203,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  2д игра.vcxproj -> C:\Users\Lenovo\source\repos\2д игра\Debug\2д игра.exe
